@@ -1,2 +1,4 @@
 # to-do-list
-Java&amp;Sqlite3
+Java(CRUD)&amp;Room&amp;Sqlite3
+
+<img src="readmeSrc/myNotes.gif" alt="myNotes" width="368" height="752" />
